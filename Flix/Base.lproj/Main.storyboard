@@ -42,7 +42,7 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vIX-bx-JFm">
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vIX-bx-JFm">
                                                     <rect key="frame" x="20" y="9" width="89" height="114"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
@@ -52,6 +52,7 @@
                                             <outlet property="posterView" destination="vIX-bx-JFm" id="fmA-d5-b6E"/>
                                             <outlet property="synopsisLabel" destination="e8n-Rz-Iwd" id="l5C-fQ-YB5"/>
                                             <outlet property="titleLabel" destination="3wO-jc-iMs" id="O19-1f-FlM"/>
+                                            <segue destination="geI-uH-gum" kind="show" id="eeL-Zc-BQU"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -86,6 +87,22 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="biP-Jg-u1C" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="18.840579710144929" y="97.767857142857139"/>
+        </scene>
+        <!--Movie Details View Controller-->
+        <scene sceneID="O69-OQ-9i4">
+            <objects>
+                <viewController id="geI-uH-gum" customClass="MovieDetailsViewController" customModule="Flix" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ciz-XY-uof">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="myH-hC-2BN"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="pdn-q4-gSX"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dvI-0x-dA9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1791" y="98"/>
         </scene>
     </scenes>
     <resources>
