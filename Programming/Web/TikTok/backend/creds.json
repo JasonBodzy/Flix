@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eco-splicer-339315",
+  "private_key_id": "1f39cbfa0bba43e15bff26eb4734eeaf11d36d42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC893NNOAGrj6YQ\n/PqFOrWifkrZumVgjplCXPVlNuCOWskt+8dbmx577AI7W3ji29WksIeKAZaYikl5\nMSfuaZIujHQgF8fb7qEUUziegRNBLGvwlUsupRsEJp7iDovOQxQegK2s/IRuKFmV\n1/nlpuGDENC3n0B3cflAxYb897ow+KDmOa+Yvz1uuJ/yz7mnMgRz8kuLTR8ANMay\nuxtFSM/8mEABxGwIu9eVKmbJz9F02/ReafGJqpDlRgTJjVO9XJDUfZ2YJ/AuRdBO\nI7obbLaCNTVhglMkiVAKjUgRVByY+/VwMalefOhHHUMqI5CFjOap13msp8Hv8qzP\ngq+Kpl3HAgMBAAECggEAEhPECn+QnVZ1JwvkdWlb5esaAwEzYIzTuYcGDMQ2sDec\nJlN/S1KoFGfMANyr0FwCcKpYlQm42+fixn6+2K5txxk1pLpRqscFztl1QaiMbIAw\n5UeK9S/jST7elTaaBkXhf1eFBdb0Xktq4oxSQjd4PF8X8HECLEsRcrJSyxFx1OxR\nwk+w36fUK8UHIvvizTmwcpKqWrI73QfrkMjQKyOl0ctSyd0Hoh6PKkBaw94jXnhT\ncVmlnntYQmlFHfpEAnnd/VlRgEhn0Hvf/cqoY9nfR0W1J8JjInCyn+jaXxUu0Zve\nQ8dzlekLkIrNDne4DMpp7kkxgY/3KuKcuXBkSdFZ4QKBgQDy1rdQxCJ/Z0tJz3OF\ndFk842UzjGVQYSpqoma2bggOiIe+M9RcR1b5ptZSmTCpz1o7HR56aH5ve5Xhx437\ny0PoFAstnaOWQapiUFuCxXkEfD7mvgvchr7NOOsULXpvSyZ2W/Ky1mtAReMwgaQA\nzFX91lHRUk2BhbGNiNz/+BVIpwKBgQDHNUgNzfLDZPykbyUByUZD3moP9RTnf3cd\nAoh/jBupM4CW01sAlH2eyoR2/ul15dSeDaiGK8+Nm9mE+bvOky+bx1CSqWgnArCa\nNMxFhlPuvEfAMgHzrFrPjzMq2SZikYbbo/0A42LANwd/Z6UV+w78j4fe/zcgTmph\nCOdQoM/F4QKBgDeBpL0tV8VPUwI4DOvAQHWOdJ9nw/CvhQaCwH+KfwTzaDOtnSjK\nlbLS08JliZ4G61T/vuuz3tKUqRnGh0m6mHb/vd5bXf0GXW/DdmdZw+OmkqojXoq1\nsf8ut20RSB8QSmZbdgoywKkcUGXR/C7ChhVTW7hA275zVLZJRlqr1hGZAoGAOVxf\nRhJSX+8ZTGPwnQYO5IYLtlKU1V//tWvAUDHQ2TTKRyPO5WjcjzezUuxt3xPx2B0I\ntLGyzwzcYozihkYdhFatHb4IDouYvJ6NX0uhqXGvm2kK5NZxQ6jxS9pBUkqjMWWT\n+YiAK+bsksQOZjjnhNPzhMOqZPQPb6d3q+DSUyECgYB/xToF0LBDlsqZMigi0ADf\nXgQkbozdoPgj3g1O2bedssDHYZOGzVBEdIMG2O57aNVPe1f0HKlO8J1v0wMRIaei\nko4DTuezKFTOikHIiS15GlDqZ3f32vL/YxfosRpodkTD29W0sX7+p6Wf7zPxZbc7\n1xVeBDT16DcLAPRNr07Yig==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tiktokbackend@eco-splicer-339315.iam.gserviceaccount.com",
+  "client_id": "114362351756924422648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tiktokbackend%40eco-splicer-339315.iam.gserviceaccount.com"
+}
